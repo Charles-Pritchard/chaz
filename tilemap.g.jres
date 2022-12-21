@@ -1,0 +1,35 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDBlMGUwZTA4MDgwODA4MDgwODA4MDgwODA4MDgwZTBlMGUwNzA3MGUwNzA3MDcwNzA3MDcwNzA3MGUwZTA3MGUwZTA1MDUwZTA1MDUwNTA1MDUwNTBlMGUwNTA1MDUwZTBlMDMwMzBlMDMwMzA1MDUwNTBlMDYwMjAyMDIwZTAyMGUwMzBlMDMwZTAzMDEwNDA0MGUwNDA0MDQwNDBlMDEwZTAzMGUwMzBlMDMwMTA0MDQwZTA0MDQwNDBlMDQwMTAzMGUwZTBlMGUwZTAxMDQwNDBlMDQwNDA0MGUwNDAxMGMwYzBlMGUwZTBjMGUwZTBlMGUwZTA0MDQwZTA0MDEwZDBlMGUwZTBlMGMwMTA0MGUwZTBlMGUwZTBlMGUwMTBkMGUwZTBlMGUwYTAxMDQwNDA0MDQwNDBlMDQwZTAxMGQwZTBlMGUwZTBhMDEwNDA0MDQwNDBlMDQwNDA0MDEwZDBlMGIwZTBiMGEwMTA0MDQwNDBlMDQwNDA0MDQwMTBkMGUwYTBlMGEwYTAxMDQwNDBlMDQwNDA0MDQwNDAxMGQwZTBlMGUwYjBhMDEwNDBlMDQwNDA0MDQwNDA0MDEwZDBhMGEwYTBhMGEwMTBlMDQwNDA0MDQwNDA0MDQwOTBkMGEwYTBhMGEwZTBlMDQwNDA0MDQwNDA0MDQwNDAxMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.vehicle.roadVertical",
+            "sprites.vehicle.roadHorizontal",
+            "sprites.dungeon.doorClosedSouth",
+            "sprites.dungeon.floorLight1",
+            "sprites.dungeon.greenOuterNorth0",
+            "sprites.dungeon.stairLadder",
+            "sprites.dungeon.stairSouth",
+            "sprites.dungeon.purpleOuterSouth0",
+            "sprites.dungeon.purpleSwitchDown",
+            "sprites.builtin.oceanSand14",
+            "sprites.castle.saplingOak",
+            "sprites.builtin.brick",
+            "sprites.dungeon.collectibleBlueCrystal",
+            "sprites.dungeon.collectibleInsignia"
+        ],
+        "displayName": "level1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
